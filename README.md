@@ -1,5 +1,5 @@
 # CovidGUI
-Inputs data from a file into charts or graphs with an average of covid vaccines per location.
+Inputs data from a file to a program which showcases charts, graphs and statistics on the average of covid vaccines per location.
 
 
 Our testing process: 
